@@ -1,0 +1,10 @@
+#netbeans
+.DS_Store
+/build/
+/dist/
+
+#eclipse
+/.classpath
+/.project
+/.settings
+/bin
